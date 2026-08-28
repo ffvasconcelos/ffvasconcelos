@@ -25,7 +25,7 @@ My focus is building robust and scalable solutions, combining good software engi
 
 ### 📫 Contact
 
-- LinkedIn: [Francisco Vasconcelos](linkedin.com/in/francisco-vasconcelos-b535a6188)
+- LinkedIn: [Francisco Vasconcelos](https://linkedin.com/in/francisco-vasconcelos-b535a6188)
 - Email: [franciscofvasconcelos@outlook.com](mailto:franciscofvasconcelos@outlook.com)
 
 ### WIP 🚧
@@ -59,7 +59,7 @@ Meu foco é construir soluções robustas e escaláveis, unindo boas práticas d
  
 ### 📫 Contato
  
-- LinkedIn: [Francisco Vasconcelos](linkedin.com/in/francisco-vasconcelos-b535a6188)
+- LinkedIn: [Francisco Vasconcelos](https://linkedin.com/in/francisco-vasconcelos-b535a6188)
 - E-mail: [franciscofvasconcelos@outlook.com](mailto:franciscofvasconcelos@outlook.com)
 
 ### WIP 🚧
