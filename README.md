@@ -2,7 +2,7 @@
 ### 🇺🇸 🇬🇧
 ## 👋 Hi, I'm Francisco 
 
-I'm a software designer at Enacom Group, and since 2021 I've developed projects across several fronts and stacks, from web development to data pipelines and tooling to support autonomous vehicle operations.
+I'm a software engineer and since 2021 I've developed projects across several fronts and stacks, from web development to data pipelines and tooling to support autonomous vehicle operations.
 
 My focus is building robust and scalable solutions, combining good software engineering practices, database integrations, and automation.
 
@@ -36,7 +36,7 @@ This profile and README are currently in development, more projects and details 
 ### 🇧🇷 🇵🇹
 ## 👋 Olá, eu sou o Francisco
  
-Sou projetista de software na Enacom Group e desde 2021 desenvolvo projetos em diversas frentes e várias stacks, desde desenvolvimento web a pipelines de dados e tooling para suporte à operação de veículos autônomos.
+Sou engenheiro de software e desde 2021 desenvolvo projetos em diversas frentes e várias stacks, desde desenvolvimento web a pipelines de dados e tooling para suporte à operação de veículos autônomos.
 
 Meu foco é construir soluções robustas e escaláveis, unindo boas práticas de engenharia de software, integrações com bases de dados e automações.
 
