@@ -14,14 +14,9 @@ My focus is building robust and scalable solutions, combining good software engi
 - **Infra & Cloud:** Linux, Docker, and AWS
 - **CI/CD:** GitHub Actions (in progress)
 
-<!--
 ### 🚀 Featured Project
 
-- **[Nome do projeto backend]** — API REST/GraphQL com autenticação, testes e documentação. Deploy em AWS com CI/CD via GitHub Actions.
-- **[Nome do projeto de dados]** — Pipeline ETL em Python que coleta, transforma e carrega dados para análise.
-- **[Nome do projeto de infra]** — Infraestrutura provisionada em AWS (EC2/ECS), com configuração de Linux e, opcionalmente, Terraform.
-> 📌 Dica: fixe (pin) esses repositórios na página principal do perfil.
--->
+- **[Maitre API](https://github.com/ffvasconcelos/maitre-api)** — Maitre API is a restaurant order management backend built with Python and FastAPI.
 
 ### 📫 Contact
 
@@ -48,14 +43,10 @@ Meu foco é construir soluções robustas e escaláveis, unindo boas práticas d
 - **Infra & Cloud:** Linux, Docker e AWS
 - **CI/CD:** GitHub Actions (em evolução)
 
-<!--
+
 ### 🚀 Projetos em destaque
 
-- **[Nome do projeto backend]** — API REST/GraphQL com autenticação, testes e documentação. Deploy em AWS com CI/CD via GitHub Actions.
-- **[Nome do projeto de dados]** — Pipeline ETL em Python que coleta, transforma e carrega dados para análise.
-- **[Nome do projeto de infra]** — Infraestrutura provisionada em AWS (EC2/ECS), com configuração de Linux e, opcionalmente, Terraform.
-> 📌 Dica: fixe (pin) esses repositórios na página principal do perfil.
--->
+- **[Maitre API](https://github.com/ffvasconcelos/maitre-api)** — Maitre API é um backend para gerenciamento de pedidos de restaurantes, desenvolvido com Python e FastAPI.
  
 ### 📫 Contato
  
