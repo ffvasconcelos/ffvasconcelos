@@ -8,7 +8,7 @@ My focus is building robust and scalable solutions, combining good software engi
 
 ### 🧰 Main Stack
 
-- **Languages & Runtime:** Node.js, TypeScript, Python
+- **Languages & Runtime:** Node.js, TypeScript, Python, Java
 - **Frontend:** React and Angular
 - **Data:** Data Science and Data Engineering (ETL, analysis, pipelines)
 - **Infra & Cloud:** Linux, Docker, and AWS
@@ -37,7 +37,7 @@ Meu foco é construir soluções robustas e escaláveis, unindo boas práticas d
 
 ### 🧰 Stack principal
  
-- **Linguagens & Runtime:** Node.js, TypeScript, Python
+- **Linguagens & Runtime:** Node.js, TypeScript, Python, Java
 - **Frontend:** React e Angular
 - **Dados:** Ciência e Engenharia de Dados (ETL, análise, pipelines)
 - **Infra & Cloud:** Linux, Docker e AWS
